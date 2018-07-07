@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
  
 public class SeleniumTest {
-	WebDriver wd;
+	WebDriver wd;//
 	
 	@Test
 	void OpenBrowser() throws InterruptedException{
