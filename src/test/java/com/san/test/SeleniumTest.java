@@ -18,7 +18,7 @@ public class SeleniumTest {
 	
 	@Test
 	void test1(){
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 	}
 	
 	@BeforeTest
