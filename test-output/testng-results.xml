@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15875" started-at="2018-07-07T03:55:04Z" finished-at="2018-07-07T03:55:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15875" started-at="2018-07-07T03:55:04Z" finished-at="2018-07-07T03:55:19Z">
+      <class name="com.san.test.SeleniumTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.san.test.SeleniumTest@371a67ec]" name="SetUp" is-config="true" duration-ms="10247" started-at="2018-07-07T03:55:04Z" finished-at="2018-07-07T03:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.san.test.SeleniumTest@371a67ec]" name="OpenBrowser" duration-ms="4996" started-at="2018-07-07T03:55:14Z" finished-at="2018-07-07T03:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:com.san.test.SeleniumTest@371a67ec]" name="EndTest" is-config="true" duration-ms="590" started-at="2018-07-07T03:55:19Z" finished-at="2018-07-07T03:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- com.san.test.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
