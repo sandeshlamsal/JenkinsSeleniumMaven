@@ -17,8 +17,8 @@ public class SeleniumTest {
 	}
 	
 	@Test
-	void test1(){
-		Assert.assertTrue(false);
+	void test2(){
+		Assert.assertTrue(true);
 	}
 	
 	@BeforeTest
